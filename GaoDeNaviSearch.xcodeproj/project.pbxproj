@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1028545F1DED7C0A00E1CADD /* 躯美2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1028545E1DED7C0A00E1CADD /* 躯美2.png */; };
 		1575156C1C9A4DD500F652A2 /* Orb_Icons_008.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1575156B1C9A4DD500F652A2 /* Orb_Icons_008.jpg */; };
 		157515711C9A538E00F652A2 /* CustomCalloutView.m in Sources */ = {isa = PBXBuildFile; fileRef = 157515701C9A538E00F652A2 /* CustomCalloutView.m */; };
 		157515771C9A603700F652A2 /* CustomAnnotationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 157515761C9A603700F652A2 /* CustomAnnotationView.m */; };
@@ -50,6 +51,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1028545E1DED7C0A00E1CADD /* 躯美2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "躯美2.png"; sourceTree = "<group>"; };
 		1575156B1C9A4DD500F652A2 /* Orb_Icons_008.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Orb_Icons_008.jpg; sourceTree = "<group>"; };
 		1575156F1C9A538E00F652A2 /* CustomCalloutView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomCalloutView.h; sourceTree = "<group>"; };
 		157515701C9A538E00F652A2 /* CustomCalloutView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCalloutView.m; sourceTree = "<group>"; };
@@ -149,6 +151,7 @@
 				15E8A5281C97E456009288E0 /* location@2x.png */,
 				15E8A5291C97E456009288E0 /* location@3x.png */,
 				15E8A4F71C97DD02009288E0 /* AppDelegate.h */,
+				1028545E1DED7C0A00E1CADD /* 躯美2.png */,
 				15E8A4F81C97DD02009288E0 /* AppDelegate.m */,
 				15E8A4FA1C97DD02009288E0 /* ViewController.h */,
 				15E8A4FB1C97DD02009288E0 /* ViewController.m */,
@@ -337,6 +340,7 @@
 				15E8A5011C97DD02009288E0 /* Assets.xcassets in Resources */,
 				15EDA98F1C99622700985EDB /* SearchListTableViewCell.xib in Resources */,
 				15E8A4FF1C97DD02009288E0 /* Main.storyboard in Resources */,
+				1028545F1DED7C0A00E1CADD /* 躯美2.png in Resources */,
 				15EDA9911C99691500985EDB /* 2.jpg in Resources */,
 				15EDA98A1C9957CE00985EDB /* SearchResultListVC.xib in Resources */,
 			);
